@@ -12,3 +12,7 @@ el diagrama entidad relacion
 el diagrama relaconal
 links de los diagramas
 https://drive.google.com/drive/folders/1rK7aa6Z8WvF0RqGAlg4BFBeO9vd0qnqS?usp=drive_link
+
+
+Y FINALMENTE PARA QUE SE PUEDA OBSERVAR EL CODIGO DEL SISTEMA DIRIGASE AL LINK
+https://github.com/Geky36/Proyecto-Recetas-de-Cocina.git
